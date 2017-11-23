@@ -171,9 +171,10 @@ textarea:focus {
    3. Section Header                 
 ========================================= */
 header {
-	background: url(images/bg.jpg) 50% 0 no-repeat fixed;
+	/* background: url(images/bg.jpg) 50% 0 no-repeat fixed;*/
 	background-size: cover;
-	background-color: lightblue;
+	background-color: #FAFAFA;
+	color: #0091EA;
 }
 .top .photo-slide {
 	max-width: 252px;
