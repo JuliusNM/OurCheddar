@@ -173,6 +173,7 @@ textarea:focus {
 header {
 	background: url(images/bg.jpg) 50% 0 no-repeat fixed;
 	background-size: cover;
+	background-color: lightblue;
 }
 .top .photo-slide {
 	max-width: 252px;
